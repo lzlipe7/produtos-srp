@@ -11,9 +11,7 @@ Estrutura mínima para entrega do **Exercício 2 – Cadastro e Listagem de Prod
 2. Copiar esta pasta para seu ambiente local (XAMPP, Laragon, etc).  
 3. Garantir que a pasta **storage/** tenha permissão de escrita.  
 4. Executar o comando abaixo na raiz do projeto para gerar o autoload:
-   ```bash
    composer dump-autoload
-   ```
 5. Acessar pelo navegador:
    - `public/index.php` → formulário de cadastro.  
    - `public/products.php` → listagem de produtos.
