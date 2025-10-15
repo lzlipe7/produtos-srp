@@ -1,0 +1,9 @@
+{
+  "name": "exercise/products-srp-demo",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "require": {}
+}
